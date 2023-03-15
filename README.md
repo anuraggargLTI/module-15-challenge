@@ -1,6 +1,6 @@
 # module-15-challenge
 
-![Screen recordings without lamda](./Screen%20Recording%20without%20lambda.mov)
+![Screen recording without lamda](./Screen%20Recording%20without%20lambda.mov)
 
 and
 
